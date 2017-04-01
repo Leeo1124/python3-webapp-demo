@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/leeo/main/apis.py=utf-8
+encoding//src/com/leeo/main/config.py=utf-8
+encoding//src/com/leeo/main/config_default.py=utf-8
+encoding//src/com/leeo/main/config_override.py=utf-8
+encoding//src/com/leeo/main/coroweb.py=utf-8
+encoding//src/com/leeo/main/handlers.py=utf-8
+encoding//src/com/leeo/main/models.py=utf-8
+encoding//src/com/leeo/main/pymonitor.py=utf-8
+encoding/<project>=UTF-8
